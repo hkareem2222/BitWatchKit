@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>BitWatch WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>BitWatch.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>7B876BB21A1CA05900A76FAF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>852DBBFB1B86234C00F07183</key>
 		<dict>
 			<key>primary</key>
 			<true/>

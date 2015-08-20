@@ -12,11 +12,17 @@
                     <items>
                         <button width="1" alignment="center" verticalAlignment="bottom" title="Refresh" id="mCn-48-kkF">
                             <fontDescription key="font" type="system" weight="medium" pointSize="16"/>
+                            <connections>
+                                <action selector="refreshTapped" destination="AgC-eL-Hgc" id="RSi-ek-Nvf"/>
+                            </connections>
                         </button>
                         <label width="1" alignment="center" text="$0.00" textAlignment="center" id="qmw-kO-c21">
                             <fontDescription key="font" type="system" weight="semibold" pointSize="30"/>
                         </label>
                     </items>
+                    <connections>
+                        <outlet property="priceLabel" destination="qmw-kO-c21" id="wHn-bG-RiB"/>
+                    </connections>
                 </controller>
             </objects>
         </scene>
